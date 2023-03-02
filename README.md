@@ -1,3 +1,14 @@
 # TodoMVC App with React hooks and Framer Motion
 
-https://user-images.githubusercontent.com/1561955/151671011-a6292b88-4a50-4030-af7c-a798f0a17db9.mp4
+🛠 Installation and Setup Instructions
+Installation: npm install
+
+In the project directory, you can run: npm run dev
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
+
+DEMO:
+
+https://todo-app-ts-sigma.vercel.app
+
